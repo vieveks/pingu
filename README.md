@@ -8,3 +8,5 @@ Todo:
 2) add whisper support 
 3) the ability to run on colab
 4) make proper framework
+
+![pingu1](https://github.com/vieveks/pingu/assets/61907310/d09be174-5a3c-4616-b2c7-e68083f5f121)
